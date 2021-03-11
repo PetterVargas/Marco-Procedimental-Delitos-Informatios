@@ -13,6 +13,8 @@ Formatos, Informes, Solicitud y Guías sobre el marco procedimental en Delitos I
 
 ### Borradores de Órdenes e Informes de Policía Judicial
 
-  - [Orden de allanamiento y registro de Delitos Informáticos](https://github.com/PetterVargas/Marco-Juridico-y-Teorico-de-Delitos-Informaticos-Cibercrimen/blob/master/Colombia/Ley%201273%20de%202009%20-%20Se%20crea%20el%20bien%20jur%C3%ADdico%20tutelado%20De%20la%20Protecci%C3%B3n%20de%20la%20Informaci%C3%B3n%20y%20de%20los%20Datos.pdf) - El presente borrador tiene los motivos fundados y el test de proporcionalidad de la corte para casos de delitos informáticos, en la incautación de dispositivos de almacenamiento digital. Es importante precisar también, que la orden cuenta con la posibilidad de realizar previsualización de la evidencia digital.
+El presente borrador tiene los motivos fundados y el test de proporcionalidad de la corte para casos de delitos informáticos, en la incautación de dispositivos de almacenamiento digital. Es importante precisar también, que la orden cuenta con la posibilidad de realizar previsualización de la evidencia digital.
+* <b>Microsoft Word</b> - [Orden de allanamiento y registro de Delitos Informáticos - 11-03-2021](https://github.com/PetterVargas/Marco-Procedimental-Delitos-Informatios/blob/main/%C3%93rdenes%20a%20Polic%C3%ADa%20Judicial%20-%20Delitos%20Inform%C3%A1ticos/Borrador%20-%20Orden%20de%20Allanamiento%20-%20Delitos%20Inform%C3%A1ticos.docx)
+* <b>PDF</b> - [Orden de allanamiento y registro de Delitos Informáticos - 11-03-2021](https://github.com/PetterVargas/Marco-Procedimental-Delitos-Informatios/blob/main/%C3%93rdenes%20a%20Polic%C3%ADa%20Judicial%20-%20Delitos%20Inform%C3%A1ticos/Borrador%20-%20Orden%20de%20Allanamiento%20-%20Delitos%20Inform%C3%A1ticos.pdf)
 
 #### Si desea aportar información puede ser enviada a la cuenta de correo electrónico peter.vargasg@gmail.com.
