@@ -6,7 +6,6 @@ Formatos, Informes, Solicitud y Guías sobre el marco procedimental en Delitos I
 <p id="Colombia">
 
 ## Colombia
--------------
 
 ### Formatos Policía Judicial
 
